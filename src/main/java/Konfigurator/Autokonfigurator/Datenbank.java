@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+/*
+ * In dieser Klasse sind die Daten der Klasse Plattform enthalten und ein Arraylist und Hashmap.
+ */
+
 public class Datenbank {
 
     public Plattform plattform;

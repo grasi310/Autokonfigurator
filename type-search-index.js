@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Konfigurator.Autokonfigurator","l":"App"},{"p":"Konfigurator.Autokonfigurator","l":"AppTest"},{"p":"Konfigurator.Autokonfigurator","l":"Datenbank"},{"p":"Konfigurator.Autokonfigurator","l":"Plattform"}]

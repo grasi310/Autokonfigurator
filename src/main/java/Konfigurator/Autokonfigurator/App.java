@@ -1,5 +1,9 @@
 package Konfigurator.Autokonfigurator;
 
+
+/*
+ * Diese Klasse enthält die Main Methode und startet über den Konstruktor.
+ */
 public class App {
 
 

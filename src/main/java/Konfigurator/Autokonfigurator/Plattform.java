@@ -1,7 +1,13 @@
 package Konfigurator.Autokonfigurator;
 
 import java.util.Scanner;
-
+/*
+ * Diese Klasse enthält alle Methoden und Eigenschaften des Plattform (Auto) Objekts
+ * und ein Menü zur Auswahl der Eigenschaften, diese Klasse steht in Verbindung
+ * mit der Datenbank Klasse um aus einer Hashmap die Preise
+ * zu ziehen und für zukünftige Erweiterungen dieses Objekt in eine Arraylist für Bestellung einzuspeichern.
+ *
+ */
 public class Plattform {
     public Datenbank datenbank = new Datenbank();
     Scanner scan = new Scanner(System.in);
